@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.authlete</groupId>
   <artifactId>java-oauth-server</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>java-oauth-server</name>
   <url>https://github.com/authlete/java-oauth-server</url>
