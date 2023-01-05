@@ -1,1 +1,1 @@
-web: java -jar target/authlete-client-java-1.0.jar
+web: java -jar target/java-oauth-server-1.0-SNAPSHOT.jar
